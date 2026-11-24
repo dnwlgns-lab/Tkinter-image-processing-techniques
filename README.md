@@ -166,5 +166,9 @@ MY_FEATURE = F(
 - URL로 불러오기는 인터넷 연결이 필요합니다.
 
 ## github 링크
+https://github.com/dnwlgns-lab/Tkinter-image-processing-techniques
+
+## 제작자
+우지훈
 
 
